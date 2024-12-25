@@ -6,6 +6,9 @@
 - [LLD](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#low-level-design-problems)
 - [Books](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#books)
 
+## Overview
+This repository contains links to valuable resources for learning and implementing system design. Whether you're preparing for interviews or architecting real-world systems, you'll find relevant materials here.
+
 ### Articles
 - [Scalability](https://blog.algomaster.io/p/scalability)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
