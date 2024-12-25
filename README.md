@@ -1,6 +1,9 @@
 # System Design
 
-## Articles
+## Contents
+- [Articles](https://github.com/amirhh-2000/system-design-resources/edit/main/README.md#Articles)
+
+### Articles
 - [Scalability](https://blog.algomaster.io/p/scalability)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
 - [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
@@ -43,7 +46,7 @@
 - [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
 - [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
 
-## Case Studies
+### Case Studies
 - [Instagram](https://medium.com/coders-mojo/day-4-of-system-design-case-studies-series-design-instagram-part-1-10943440f29c)
 - [Messenger App](https://medium.com/coders-mojo/day-5-of-system-design-case-studies-series-design-messenger-app-7b73c589f4a)
 - [Twitter](https://medium.com/coders-mojo/day-7-of-system-design-case-studies-series-design-twitter-fd0722d7bb7c)
@@ -56,10 +59,10 @@
 - [Yelp](https://medium.com/coders-mojo/day-14-of-system-design-case-studies-series-design-yelp-af432d13e838)
 - [Uber](https://medium.com/coders-mojo/day-15-of-system-design-case-studies-series-design-uber-2adc612701d)
 
-## Low Level Design Problems
+### Low Level Design Problems
 - [Interview practice](https://github.com/kumaransg/LLD)
 - [Django rest](https://github.com/tushverma/splitwise)
 
-## Books
+### Books
 - [System Design Interview (ENG)](https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF?adgrpid=117434444859&dib=eyJ2IjoiMSJ9.yyx6qnDmeg4rnFaOPnFM6h6gj9iUB79NGrGtZkQxxv_JPaCzMFrY9FPgmj1gQo35FJokdHR8XM1Qb0TlTyIl_FaF5r2k2I4i4sr4F1bWUA0ZU1I-h_KhSESymANFdx7eaTMpLvP4_ikXp4z52HYWoVpisH8PnUlI46WMnDmp-XNKzuDZAsAG-9SFb_D2zdOdbV1qvC2D2GaA6TybnQzMOA.z6QOCqeDqKaC4pWiJ4LyO-sDDRl-wz3oYjtnPQrKKOQ&dib_tag=se&hvadid=604405567644&hvdev=m&hvlocint=9030938&hvlocphy=2364&hvnetw=g&hvqmt=e&hvrand=17935920220375622787&hvtargid=kwd-298507968466&hydadcr=19224_13432048&keywords=system+design+interview&qid=1734603404&sr=8-3)
 - [System Design Interview (FA)](https://virgool.io/@dany_kh/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D9%87%D8%A7%DB%8C-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%DB%8C-%DB%B1-mox8la8vlwz8)
