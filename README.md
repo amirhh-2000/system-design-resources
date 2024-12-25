@@ -1,7 +1,10 @@
 # System Design
 
 ## Contents
-- [Articles](https://github.com/amirhh-2000/system-design-resources/main/README.md#Articles)
+- [Articles](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#articles)
+- [Case Studies](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#case-studies)
+- [LLD](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#low-level-design-problems)
+- [Books](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#books)
 
 ### Articles
 - [Scalability](https://blog.algomaster.io/p/scalability)
