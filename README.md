@@ -3,8 +3,9 @@
 ## Contents
 - [Overview](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#overview)
 - [Resource Categories](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#resource-categories)
-- [LLD](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#low-level-design-problems)
-- [Books](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#books)
+- [Contributing](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#contributing)
+- [Contribution Guidelines](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#contribution-guidelines)
+- [License](https://github.com/amirhh-2000/system-design-resources/blob/main/README.md#license)
 
 ## Overview
 This repository contains links to valuable resources for learning and implementing system design. Whether you're preparing for interviews or architecting real-world systems, you'll find relevant materials here.
@@ -76,9 +77,17 @@ This repository contains links to valuable resources for learning and implementi
 
 ## Contributing
 1. Fork the repository
-- Create a new branch (git checkout -b add-new-resource)
-- Add your resources
-- Commit your changes (git commit -m 'Add new resource')
-- Push to the branch (git push origin add-new-resource)
-- Create a Pull Request
+2. Create a new branch (git checkout -b add-new-resource)
+3. Add your resources
+4. Commit your changes (git commit -m 'Add new resource')
+5. Push to the branch (git push origin add-new-resource)
+6. Create a Pull Request
 
+## Contribution Guidelines
+- Ensure links are valid and accessible
+- Include a brief description for each resource
+- Categorize appropriately
+- Avoid duplicates
+
+## License
+MIT License - see the LICENSE.md file for details
