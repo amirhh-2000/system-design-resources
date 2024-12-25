@@ -90,4 +90,4 @@ This repository contains links to valuable resources for learning and implementi
 - Avoid duplicates
 
 ## License
-MIT License - see the LICENSE.md file for details
+MIT License - see the [LICENSE](https://github.com/amirhh-2000/system-design-resources/blob/main/LICENSE) file for details
