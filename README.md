@@ -77,10 +77,10 @@ This repository contains links to valuable resources for learning and implementi
 
 ## Contributing
 1. Fork the repository
-2. Create a new branch (git checkout -b add-new-resource)
+2. Create a new branch (`git checkout -b add-new-resource`)
 3. Add your resources
-4. Commit your changes (git commit -m 'Add new resource')
-5. Push to the branch (git push origin add-new-resource)
+4. Commit your changes (`git commit -m 'Add new resource'`)
+5. Push to the branch (`git push origin add-new-resource`)
 6. Create a Pull Request
 
 ## Contribution Guidelines
