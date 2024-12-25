@@ -1,7 +1,7 @@
 # System Design
 
 ## Contents
-- [Articles](https://github.com/amirhh-2000/system-design-resources/edit/main/README.md#Articles)
+- [Articles](https://github.com/amirhh-2000/system-design-resources/main/README.md#Articles)
 
 ### Articles
 - [Scalability](https://blog.algomaster.io/p/scalability)
