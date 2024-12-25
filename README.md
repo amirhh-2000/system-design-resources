@@ -9,6 +9,7 @@
 ## Overview
 This repository contains links to valuable resources for learning and implementing system design. Whether you're preparing for interviews or architecting real-world systems, you'll find relevant materials here.
 
+## Resource Categories
 ### Articles
 - [Scalability](https://blog.algomaster.io/p/scalability)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
