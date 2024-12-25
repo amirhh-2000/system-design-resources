@@ -1,5 +1,4 @@
-# system-design-resources
-A collection of system design resources, articles, and references.
+# System Design
 
 - [Scalability](https://blog.algomaster.io/p/scalability)
 - [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
@@ -28,3 +27,17 @@ A collection of system design resources, articles, and references.
 - [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
 - [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
 - [Database Indexs](https://www.progress.com/tutorials/odbc/using-indexes)
+- [HeartBeat](https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html)
+- [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
+- [Idempotency](https://blog.dreamfactory.com/what-is-idempotency)
+- [Database Scaling](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
+- [Data Replication](https://redis.io/blog/what-is-data-replication/)
+- [Data Redundancy](https://www.egnyte.com/guides/governance/data-redundancy)
+- [Database Sharding](https://www.mongodb.com/resources/products/capabilities/database-sharding-explained)
+- [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
+- [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
+- [WebSockets](https://www.pubnub.com/guides/websockets/)
+- [Bloom Filters](https://www.enjoyalgorithms.com/blog/bloom-filter)
+- [API Gateway](https://www.f5.com/glossary/api-gateway)
+- [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
