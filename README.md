@@ -19,7 +19,7 @@ This repository contains links to valuable resources for learning and implementi
 - [Consistent Hashing](https://arpitbhayani.me/blogs/consistent-hashing/)
 - [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
 - [API Design](https://blog.wahab2.com/api-architecture-best-practices-for-designing-rest-apis-bf907025f5f?gi=e5f33b0137fe)
-- Strong vs Eventual Consistency
+- [Strong vs Eventual Consistency](https://systemdesignschool.io/blog/eventual-consistency-vs-strong-consistency)
 - [Synchronous vs. asynchronous communications](https://www.techtarget.com/searchapparchitecture/tip/Synchronous-vs-asynchronous-communication-The-differences)
 - [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
 - [Batch Processing vs Stream Processing](https://atlan.com/batch-processing-vs-stream-processing/)
@@ -29,7 +29,7 @@ This repository contains links to valuable resources for learning and implementi
 - [Service Discovery](https://www.f5.com/es_es/company/blog/nginx/service-discovery-in-a-microservices-architecture)
 - [Disaster Recovery](https://cloud.google.com/learn/what-is-disaster-recovery)
 - [Distributed Tracing](https://www.dynatrace.com/news/blog/what-is-distributed-tracing/)
-- Top 15 Tradeoffs
+- [Top 15 Tradeoffs](https://blog.algomaster.io/p/system-design-top-15-trade-offs)
 - [Horizontal vs Vertical Scaling](https://www.spiceworks.com/tech/cloud/articles/horizontal-vs-vertical-cloud-scaling/)
 - [Databases](https://blog.algomaster.io/p/15-types-of-databases)
 - [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
